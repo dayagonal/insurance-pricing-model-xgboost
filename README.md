@@ -16,7 +16,9 @@ The solution includes data cleaning, feature engineering, model training, calibr
 ## Data Availability
 The dataset is not publicly available due to confidentiality reasons.
 
+## Disclaimer
 
+This project was developed as part of a Company's case competition.
 ##  Pipeline Overview
 
 ### 1. Data Cleaning
